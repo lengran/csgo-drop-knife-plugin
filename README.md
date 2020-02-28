@@ -11,6 +11,8 @@ Simply put the smx file into root-of-csgo/csgo/addons/sourcemod/plugins.
 
 ## Usage
 
+Make sure your server has "mp\_drop\_knife\_enable 1".
+
 Type "!drop" in text chat and enjoy!
 
 ## Emmm
