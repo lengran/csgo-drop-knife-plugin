@@ -5,6 +5,10 @@ A sourcemod plugin to allow players drop their knife and share with friends.
 
 Sourcemod 1.10.
 
+## Installation
+
+Simply put the smx file into root-of-csgo/csgo/addons/sourcemod/plugins.
+
 ## Usage
 
 Type "!drop" in text chat and enjoy!
