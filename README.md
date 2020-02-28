@@ -15,7 +15,7 @@ Make sure your server has "mp\_drop\_knife\_enable 1".
 
 Type "!drop" in text chat and enjoy!
 
-## Warming
+## Warnning
 
 I don't know if this violate Valve's term of use. It is of your own risk to use this plugin.
 
