@@ -1,5 +1,5 @@
 # csgo-drop-knife-plugin
-A sourcemod plugin to allow players drop their knife and share with friends.
+A sourcemod plugin allowing players to drop their knifes and share them with friends.
 
 ## Requirements
 
